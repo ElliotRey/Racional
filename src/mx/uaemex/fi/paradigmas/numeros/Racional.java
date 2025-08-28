@@ -1,4 +1,4 @@
-mx.uaemex.fi.paradigmas.numeros;
+Package mx.uaemex.fi.paradigmas.numeros;
 
 /**
  * data type
