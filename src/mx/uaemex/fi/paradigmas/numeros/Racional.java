@@ -18,6 +18,9 @@ public class Racional {
         return res;
     }
 
+    public Racional Suma(int n){
+        this.numerador=n;
+    }
     public Racional(){
         this.numerador = 0;
         this.denominador = 1;
